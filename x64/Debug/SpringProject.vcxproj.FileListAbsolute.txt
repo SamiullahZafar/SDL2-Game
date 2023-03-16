@@ -1,0 +1,5 @@
+C:\Users\wo917566\source\repos\projTest\project\visual-studio\SpringProjectx\x64\Debug\SpringProject.exe
+C:\Users\wo917566\source\repos\projTest\project\visual-studio\SpringProjectx\x64\Debug\SpringProject.pdb
+C:\Reading\Teaching\Courses\Programming in C C++ (202223)\C++\MyLectures\cs1pr-portfolio-master\cs1pr-portfolio-master\project\visual-studio\SpringProjectx\x64\Debug\SpringProject.exe
+C:\Reading\Teaching\Courses\Programming in C C++ (202223)\C++\MyLectures\SpringProjectx\x64\Debug\SpringProject.exe
+D:\Samiullah\Freelancering Task\Task No 13\SpringProject (2) (1)\SpringProject\VisualStudio\x64\Debug\SpringProject.exe
